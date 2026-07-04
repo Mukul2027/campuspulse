@@ -1,0 +1,16 @@
+student_id,student_name,attendance_percent,previous_gpa,current_gpa,assignments_total,assignments_submitted,subject1_marks,subject2_marks,subject3_marks
+S001,Alice Smith,95,3.8,3.9,20,20,90,92,88
+S002,Bob Johnson,80,3.2,2.0,20,15,60,55,50
+S003,Charlie Brown,60,2.5,2.4,20,10,40,45,35
+S004,David Davis,70,3.0,3.1,20,18,75,70,80
+S005,Eve Evans,99,4.0,4.0,20,20,95,98,99
+S006,Frank Farmer,85,2.8,2.7,15,10,65,70,60
+S007,Grace Green,72,3.5,2.0,20,12,45,50,48
+S008,Harry Harris,50,2.0,1.5,20,8,30,40,25
+S009,Ivy Irwin,90,3.6,3.7,18,18,85,88,90
+S010,Jack Jones,82,3.1,3.2,15,14,78,75,80
+S011,Karen King,65,3.4,2.2,20,11,48,45,50
+S012,Leo Lewis,88,2.9,3.0,20,19,72,75,70
+S013,Mia Martin,76,3.8,3.7,15,14,80,85,82
+S014,Noah Nelson,92,3.3,3.4,20,20,85,80,88
+S015,Olivia Owen,55,2.7,2.5,20,5,40,35,42
