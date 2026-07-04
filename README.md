@@ -7,7 +7,6 @@ Built for **Gen AI Academy — APAC Edition** (Google Cloud x H2S), Team **Tech-
 ## Team
 - Mukul (Team Leader)
 - Abhilasha Nautiyal
-- Abhishek Nayyar
 
 ## How it works
 1. Upload a CSV of student records (see format below)
